@@ -67,13 +67,13 @@ I'm a front-end developer and UI/UX designer passionate about building clean, re
 **Backend** — how I build and connect the logic running underneath:
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,postgres,firebase,supabase,graphql,prisma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,firebase,supabase,prisma&theme=dark" />
 </p>
 
 **Tools & Workflow** — how I build, test, and ship every project:
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,vite,webpack,jest&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vite,jest&theme=dark" />
 </p>
 
 <div align="center">
