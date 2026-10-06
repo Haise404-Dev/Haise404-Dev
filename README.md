@@ -92,7 +92,7 @@ I'm a front-end developer and UI/UX designer passionate about building clean, re
 
 | Projects Completed | Tools I Use | Current Status |
 |:---:|:---:|:---:|
-| **13+** | **16+** | **Available for new work** |
+| **15+** | **16+** | **Available for new work** |
 
 </div>
 
